@@ -15,4 +15,5 @@ MySQL
 
 # Features
 Accountant Operations -> Create - Remove - Update - Delete Account - View Details.
+
 Customer Operations -> Transfer money - View balance - Deposit - Withdraw.

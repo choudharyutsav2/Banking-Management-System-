@@ -6,7 +6,7 @@ public class IDEndTermProject {
     static final String DB_URL = "jdbc:mysql://localhost/idproject1";
 
     static final String USER = "root";
-    static final String PASS = "csee2141016041"; 
+    static final String PASS = "**********"; 
 
     public static void main(String[] args) {
         Connection conn = null;
